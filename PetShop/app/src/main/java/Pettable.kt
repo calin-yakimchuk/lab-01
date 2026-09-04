@@ -1,0 +1,4 @@
+interface Pettable
+{
+    fun pet()
+}
