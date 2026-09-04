@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Full Name:** `Calin Yakimchuk`
-- **CCID:** `1803799`
+- **CCID:** `cyakimch`
 
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
